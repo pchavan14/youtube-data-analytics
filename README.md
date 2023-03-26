@@ -22,3 +22,5 @@ IAM permission errors needs to be resolved
 When selecting crawler , select the subfolder with the files
 
 Parquet file comes with metadata , when we change the datatype inside aws catalog it does not change the datatype
+
+
